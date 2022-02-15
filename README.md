@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Maruf
+#### WebDesigner
+I am professional on Font-end web designing and soon be a Full-Stack web developer . I have done lots of webdesign with HTML,CSS,Bootstrap and JavaScript. I also work with WORDPRESS. Lets talk about your projects.
+
+Skills:  HTML / CSS/JAVASCRIPT/WORDPRESS
+
+- 🌱 I’m currently learning JavaScript 
+- 💬 Ask me about Your Project 
+- 📫 How to reach me: whatsApp : 01830306037 
 
 
-**dev-maruf-hasan/dev-maruf-hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/maruf152003/)  
 
